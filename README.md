@@ -8,6 +8,7 @@ I aimed to grasp the relative strengths and weaknesses of each data structure an
 How did you overcome any roadblocks you encountered while going through the activities or project?
 I resolved any issues by consulting the official documentation of the method or searching for example uses. Occasionally, I created a small prototype code element that was simple and then expanded it as the logic became more complex.
 
+How has your work on this project expanded your approach to designing software and developing programs?
 The projects made me consider performance and how to approach algorithmic design. It also revealed that I don't naturally think recursively, which is a weakness in some of my potential designs.
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
